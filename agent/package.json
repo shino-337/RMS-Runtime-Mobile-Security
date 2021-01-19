@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security",
   "dependencies": {
-    "frida-compile": "^9.3.0",
+    "frida-compile": "^9.5.2",
     "frida-fs": "^3.0.1"
   }
 }
